@@ -1,5 +1,5 @@
 /*===================================== 
-YOU CAN WRIGHT CUSTOME CSS 
+YOU CAN WRITE CUSTOME CSS 
 ======================================*/
 
 .container.roadmap h3 {
@@ -41,4 +41,12 @@ YOU CAN WRIGHT CUSTOME CSS
 }
 .sticky-header.sticky-header-hidden.is-fixed.color-fill {
     display: block;
+}
+
+.button-row {
+    margin-bottom: 8px;
+}
+
+.icon-content {
+    min-height: 108px;
 }

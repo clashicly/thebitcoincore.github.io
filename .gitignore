@@ -1,2 +1,6 @@
 .DS_Store
 .idea
+cpuminer-blake2b.tar.gz
+gomine.txt
+bootstrap/*
+data/*
